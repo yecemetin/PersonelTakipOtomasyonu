@@ -1,0 +1,11 @@
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csprojResolveAssemblyReference.cache
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form1.resources
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.Cache
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
+c:\users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form2.resources
+C:\Users\yecem\documents\visual studio 2012\Projects\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Form3.resources
